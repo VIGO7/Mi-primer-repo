@@ -1,8 +1,8 @@
-    body{
+    body {
         background-color:black
     }
     
-    p{
+    p {
         font-size: 40px;
         color: red;
         text-align: center;
@@ -14,3 +14,7 @@
         color: white;
     }
     
+    img {
+        display: block;
+        margin: 0 auto;
+    }
